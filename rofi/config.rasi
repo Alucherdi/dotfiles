@@ -1,0 +1,12 @@
+@theme "./alu.rasi"
+
+configuration {
+    modes: "drun,window,run";
+    display-drun: " ";
+    display-run: " ";
+    display-window: " ";
+	kb-row-left: "";
+	kb-row-right: "";
+    kb-mode-next: "Control+Page_Down";
+    kb-mode-previous: "Control+Page_Up";
+}
